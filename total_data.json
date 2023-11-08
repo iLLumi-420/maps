@@ -1,6 +1,7 @@
 {
-    "Surkhet": {},
-    "Tansen Durbar": {},
-    "Gosaikunda Lake": {},
-    "Bhaktapur Durbar Square": {}
+    "Janakpur": {
+        "name": "Janakpur",
+        "latitude": 26.727146599999998,
+        "longitude": 85.9406745
+    }
 }

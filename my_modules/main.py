@@ -25,6 +25,7 @@ def save_req_data(place):
         data = data.lstrip(")]}'")
     except json.JSONDecodeError as e:
         print("Error parsing JSON:", e)
+        return {}
     
 
     def create_indexed_dict(data, prefix=''):
@@ -44,14 +45,14 @@ def save_req_data(place):
     longitude = indexed_data['_6']['_6_9']['_6_9_3']
     name = indexed_data['_6']['_6_11']
 
-    data = {}
-    data['name'] = name
-    data['latitude'] = latitude
-    data['longitude'] = longitude
+    json_data = {}
+    json_data['name'] = name
+    json_data['latitude'] = latitude
+    json_data['longitude'] = longitude
 
     time.sleep(2)
 
-    return data
+    return json_data
 
 if __name__ == '__main__':
     places = ['Surkhet', 'Tansen Durbar', 'Gosaikunda Lake', 'Bhaktapur Durbar Square', 'Besisahar', 'Simara', 'Janakpur', 'Biratnagar', 'Mein Khola', 'Jhapa', 'Gaur', 'Gorkha', 'Dhankuta', 'Jiri', 'Kathmandu', 'Dhampus', 'Madhyapur Thimi', 'Rara Lake', 'Dhunche', 'Kopan Monastery', 'Kamalamai', 'Makalu Base Camp', 'Lamjung', 'Bardia National Park', 'Phoksundo Lake', 'Barpak', 'Birendranagar', 'Rupa Lake', 'Siddharthanagar', 'Nuwakot', 'Baglung', 'Mahendranagar', 'Nepalgunj', 'Hetauda', 'Langtang National Park', 'Tikapur', 'Poon Hill', 'Chandragiri Hills', 'Rajbiraj', 'Bhadrapur', 'Birgunj', 'Gulariya', 'Suklaphanta Wildlife Reserve', 'Khanikhola', 'Sagarmatha National Park', 'Solukhumbu', 'Kalinchowk', 'Durbar Marg', 'Ilam', 'Dolpo', 'Khandbari', 'Ramechhap', 'Bandipur', 'Hattisar', 'Rara National Park', 'Charikot', 'Basantapur Durbar Square', 'Dhorpatan Hunting Reserve', 'Doti', 'Manaslu Conservation Area', 'Tumlingtar', 'Tal Barahi', 'Sauraha', 'Birtamode', 'Renjo La Pass', 'Lahan', 'Koshi Tappu Wildlife Reserve', 'Nagarkot', 'Damauli', 'Langtang Valley', 'Dhulikhel', 'Beni', 'Marpha', 'Achham', 'Kalapathar', 'Devghat', 'Sainbu', 'Boudhanath Stupa', 'Jaleshwor', 'Ghorepani', 'Thamel', 'Kanchenjunga Conservation Area', 'Butwal', 'Bhimsen', 'Ghandruk', 'Patan Durbar Square', 'Bardiya National Park', 'Lumbini', 'Karnali', 'Gosainkunda', 'Ghorahi', 'Lukla', 'Sukla Phanta Wildlife Reserve', 'Lumbini Sacred Garden', 'Bhaktapur', 'Munglin', 'Tatopani', 'Lalitpur', 'Rupa Tal', 'Tilaurakot', 'Gaighat', 'Phakding', 'Helambu', 'Gosainkunda Lake', 'Annapurna Conservation Area', 'Phidim', 'Kagbeni', 'Swayambhunath Stupa', 'Mustang', 'Rukumkot', 'Tulsipur', 'Kirtipur', 'Gosaikunda', 'Kalaiya', 'Waling', 'Hile', 'Rasuwa', 'Biratchowk', 'Terhathum', 'Thyangboche', 'Siddharthanagar (Bhairahawa)', 'Pashupatinath Temple', 'Lakeside Pokhara', 'Muktinath Temple', 'Khaptad National Park', 'Kusma', 'Rolpa', 'Fewa Lake', 'Begnas Lake', 'Panchthar', 'Chitwan National Park', 'Namche Bazaar', 'Dhangadhi', 'Dharan', 'Chainpur', 'Palpa', 'Bharatpur', 'Thame', 'Gokyo Lake', 'Taudaha Lake', 'Shey Phoksundo National Park', 'Jumla', 'Damak', 'Ghale Gaun', 'Sandakpur', 'Dharapani', 'Dhading Besi', 'Halesi', 'Phewa Lake', 'Jomsom', 'Syangja', 'Tansen', 'Panaoti', 'Maratika Cave', 'Pokhara', 'Makalu Barun National Park', 'Kathmandu Valley', 'Kakani', 'Annapurna Base Camp', 'Simikot', 'Patan', 'Kawasoti', 'Itahari']

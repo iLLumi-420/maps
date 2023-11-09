@@ -1,0 +1,405 @@
+{
+    "data": [
+        {
+            "name": "Hotel Eagle Zone",
+            "latitude": 28.2208173,
+            "longitude": 83.957764
+        },
+        {
+            "name": "Zostel Pokhara",
+            "latitude": 28.223853799999997,
+            "longitude": 83.9516258
+        },
+        {
+            "name": "Hotel Mountain View | Lakeside, Pokhara",
+            "latitude": 28.202241299999997,
+            "longitude": 83.9678869
+        },
+        {
+            "name": "Hotel Himalayan Inn",
+            "latitude": 28.207006,
+            "longitude": 83.96268069999999
+        },
+        {
+            "name": "Golden Lake",
+            "latitude": 28.221055399999997,
+            "longitude": 83.95772219999999
+        },
+        {
+            "name": "Landmark Pokhara",
+            "latitude": 28.2079065,
+            "longitude": 83.9576036
+        },
+        {
+            "name": "Hotel Himalayan Vacation",
+            "latitude": 28.205344399999998,
+            "longitude": 83.9617344
+        },
+        {
+            "name": "Hotel Snowland",
+            "latitude": 28.2087737,
+            "longitude": 83.9573411
+        },
+        {
+            "name": "Lake Mahal Hotel & Restaurant \u9ec4\u9e64\u697c\u5927\u9152\u5e97",
+            "latitude": 28.2062475,
+            "longitude": 83.9610446
+        },
+        {
+            "name": "Hotel Cordial",
+            "latitude": 28.21391,
+            "longitude": 83.9595283
+        },
+        {
+            "name": "Hotel Mala Pokhara",
+            "latitude": 28.2097764,
+            "longitude": 83.9602366
+        },
+        {
+            "name": "Three Jewels Boutique Hotel",
+            "latitude": 28.2130801,
+            "longitude": 83.9607733
+        },
+        {
+            "name": "Hotel Grace Pokhara",
+            "latitude": 28.2082603,
+            "longitude": 83.96062959999999
+        },
+        {
+            "name": "Pokhara Backpackers Hostel",
+            "latitude": 28.2050409,
+            "longitude": 83.963894
+        },
+        {
+            "name": "Hotel Mount Kailash Resort",
+            "latitude": 28.2044537,
+            "longitude": 83.9627476
+        },
+        {
+            "name": "Hotel Forest Lake",
+            "latitude": 28.2219983,
+            "longitude": 83.95506759999999
+        },
+        {
+            "name": "Lake View Resort",
+            "latitude": 28.2048,
+            "longitude": 83.96228119999999
+        },
+        {
+            "name": "Hotel Pristine Himalaya",
+            "latitude": 28.244437599999998,
+            "longitude": 83.949198
+        },
+        {
+            "name": "Gaurishankar Backpacker\u2019s hostel",
+            "latitude": 28.2064028,
+            "longitude": 83.96176679999999
+        },
+        {
+            "name": "Atithi Resort & SPA Pvt. Ltd.",
+            "latitude": 28.2067686,
+            "longitude": 83.96682849999999
+        },
+        {
+            "name": "Hotel Eagle Zone",
+            "latitude": 28.2208173,
+            "longitude": 83.957764
+        },
+        {
+            "name": "Zostel Pokhara",
+            "latitude": 28.223853799999997,
+            "longitude": 83.9516258
+        },
+        {
+            "name": "Hotel Mountain View | Lakeside, Pokhara",
+            "latitude": 28.202241299999997,
+            "longitude": 83.9678869
+        },
+        {
+            "name": "Hotel Himalayan Inn",
+            "latitude": 28.207006,
+            "longitude": 83.96268069999999
+        },
+        {
+            "name": "Golden Lake",
+            "latitude": 28.221055399999997,
+            "longitude": 83.95772219999999
+        },
+        {
+            "name": "Landmark Pokhara",
+            "latitude": 28.2079065,
+            "longitude": 83.9576036
+        },
+        {
+            "name": "Hotel Himalayan Vacation",
+            "latitude": 28.205344399999998,
+            "longitude": 83.9617344
+        },
+        {
+            "name": "Hotel Snowland",
+            "latitude": 28.2087737,
+            "longitude": 83.9573411
+        },
+        {
+            "name": "Lake Mahal Hotel & Restaurant \u9ec4\u9e64\u697c\u5927\u9152\u5e97",
+            "latitude": 28.2062475,
+            "longitude": 83.9610446
+        },
+        {
+            "name": "Hotel Cordial",
+            "latitude": 28.21391,
+            "longitude": 83.9595283
+        },
+        {
+            "name": "Hotel Mala Pokhara",
+            "latitude": 28.2097764,
+            "longitude": 83.9602366
+        },
+        {
+            "name": "Three Jewels Boutique Hotel",
+            "latitude": 28.2130801,
+            "longitude": 83.9607733
+        },
+        {
+            "name": "Hotel Grace Pokhara",
+            "latitude": 28.2082603,
+            "longitude": 83.96062959999999
+        },
+        {
+            "name": "Pokhara Backpackers Hostel",
+            "latitude": 28.2050409,
+            "longitude": 83.963894
+        },
+        {
+            "name": "Hotel Mount Kailash Resort",
+            "latitude": 28.2044537,
+            "longitude": 83.9627476
+        },
+        {
+            "name": "Hotel Forest Lake",
+            "latitude": 28.2219983,
+            "longitude": 83.95506759999999
+        },
+        {
+            "name": "Lake View Resort",
+            "latitude": 28.2048,
+            "longitude": 83.96228119999999
+        },
+        {
+            "name": "Hotel Pristine Himalaya",
+            "latitude": 28.244437599999998,
+            "longitude": 83.949198
+        },
+        {
+            "name": "Gaurishankar Backpacker\u2019s hostel",
+            "latitude": 28.2064028,
+            "longitude": 83.96176679999999
+        },
+        {
+            "name": "Atithi Resort & SPA Pvt. Ltd.",
+            "latitude": 28.2067686,
+            "longitude": 83.96682849999999
+        },
+        {
+            "name": "Zostel Pokhara",
+            "latitude": 28.223853799999997,
+            "longitude": 83.9516258
+        },
+        {
+            "name": "Hotel Eagle Zone",
+            "latitude": 28.2208173,
+            "longitude": 83.957764
+        },
+        {
+            "name": "Hotel Mountain View | Lakeside, Pokhara",
+            "latitude": 28.202241299999997,
+            "longitude": 83.9678869
+        },
+        {
+            "name": "Hotel Himalayan Inn",
+            "latitude": 28.207006,
+            "longitude": 83.96268069999999
+        },
+        {
+            "name": "Golden Lake",
+            "latitude": 28.221055399999997,
+            "longitude": 83.95772219999999
+        },
+        {
+            "name": "Hotel Himalayan Vacation",
+            "latitude": 28.205344399999998,
+            "longitude": 83.9617344
+        },
+        {
+            "name": "Landmark Pokhara",
+            "latitude": 28.2079065,
+            "longitude": 83.9576036
+        },
+        {
+            "name": "Hotel Grace Pokhara",
+            "latitude": 28.2082603,
+            "longitude": 83.96062959999999
+        },
+        {
+            "name": "Hotel Mala Pokhara",
+            "latitude": 28.2097764,
+            "longitude": 83.9602366
+        },
+        {
+            "name": "Hotel Snowland",
+            "latitude": 28.2087737,
+            "longitude": 83.9573411
+        },
+        {
+            "name": "Hotel Cordial",
+            "latitude": 28.21391,
+            "longitude": 83.9595283
+        },
+        {
+            "name": "Hotel Mount Kailash Resort",
+            "latitude": 28.2044537,
+            "longitude": 83.9627476
+        },
+        {
+            "name": "Lake Mahal Hotel & Restaurant \u9ec4\u9e64\u697c\u5927\u9152\u5e97",
+            "latitude": 28.2062475,
+            "longitude": 83.9610446
+        },
+        {
+            "name": "Hotal Aone parijat",
+            "latitude": 28.2122705,
+            "longitude": 83.9596925
+        },
+        {
+            "name": "Hotel Peace Valley",
+            "latitude": 28.222272999999998,
+            "longitude": 83.9560668
+        },
+        {
+            "name": "Hotel Pristine Himalaya",
+            "latitude": 28.244437599999998,
+            "longitude": 83.949198
+        },
+        {
+            "name": "Three Jewels Boutique Hotel",
+            "latitude": 28.2130801,
+            "longitude": 83.9607733
+        },
+        {
+            "name": "Lake View Resort",
+            "latitude": 28.2048,
+            "longitude": 83.96228119999999
+        },
+        {
+            "name": "Hotel Snow Leopard Pokhara",
+            "latitude": 28.2080396,
+            "longitude": 83.96054699999999
+        },
+        {
+            "name": "Hotel Forest Lake",
+            "latitude": 28.2219983,
+            "longitude": 83.95506759999999
+        },
+        {
+            "name": "Zostel Pokhara",
+            "latitude": 28.223853799999997,
+            "longitude": 83.9516258
+        },
+        {
+            "name": "Hotel Eagle Zone",
+            "latitude": 28.2208173,
+            "longitude": 83.957764
+        },
+        {
+            "name": "Hotel Mountain View | Lakeside, Pokhara",
+            "latitude": 28.202241299999997,
+            "longitude": 83.9678869
+        },
+        {
+            "name": "Hotel Himalayan Inn",
+            "latitude": 28.207006,
+            "longitude": 83.96268069999999
+        },
+        {
+            "name": "Golden Lake",
+            "latitude": 28.221055399999997,
+            "longitude": 83.95772219999999
+        },
+        {
+            "name": "Hotel Himalayan Vacation",
+            "latitude": 28.205344399999998,
+            "longitude": 83.9617344
+        },
+        {
+            "name": "Landmark Pokhara",
+            "latitude": 28.2079065,
+            "longitude": 83.9576036
+        },
+        {
+            "name": "Hotel Grace Pokhara",
+            "latitude": 28.2082603,
+            "longitude": 83.96062959999999
+        },
+        {
+            "name": "Lake Mahal Hotel & Restaurant \u9ec4\u9e64\u697c\u5927\u9152\u5e97",
+            "latitude": 28.2062475,
+            "longitude": 83.9610446
+        },
+        {
+            "name": "Hotel Mala Pokhara",
+            "latitude": 28.2097764,
+            "longitude": 83.9602366
+        },
+        {
+            "name": "Hotel Peace Valley",
+            "latitude": 28.222272999999998,
+            "longitude": 83.9560668
+        },
+        {
+            "name": "Hotel Snowland",
+            "latitude": 28.2087737,
+            "longitude": 83.9573411
+        },
+        {
+            "name": "Lake View Resort",
+            "latitude": 28.2048,
+            "longitude": 83.96228119999999
+        },
+        {
+            "name": "Hotel Cordial",
+            "latitude": 28.21391,
+            "longitude": 83.9595283
+        },
+        {
+            "name": "Hotal Aone parijat",
+            "latitude": 28.2122705,
+            "longitude": 83.9596925
+        },
+        {
+            "name": "Three Jewels Boutique Hotel",
+            "latitude": 28.2130801,
+            "longitude": 83.9607733
+        },
+        {
+            "name": "Hotel Mount Kailash Resort",
+            "latitude": 28.2044537,
+            "longitude": 83.9627476
+        },
+        {
+            "name": "Hotel Snow Leopard Pokhara",
+            "latitude": 28.2080396,
+            "longitude": 83.96054699999999
+        },
+        {
+            "name": "Hotel Pristine Himalaya",
+            "latitude": 28.244437599999998,
+            "longitude": 83.949198
+        },
+        {
+            "name": "Hotel Forest Lake",
+            "latitude": 28.2219983,
+            "longitude": 83.95506759999999
+        }
+    ],
+    "latest_ech": 10
+}

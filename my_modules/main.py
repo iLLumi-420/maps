@@ -20,9 +20,10 @@ def create_indexed_dict(data):
 def save_req_data(location, search_term):
 
     location = location.lower()
+    search_term = search_term.lower()
 
     try:
-        with open(f'{location}.json', 'w') as file:
+        with open(f'{location}_{search_term}.json', 'w') as file:
             required_data = json.load(file)
     except:
         required_data = {'data':[], 'latest_ech': 6}
@@ -84,14 +85,14 @@ def save_req_data(location, search_term):
 if __name__ == '__main__':
     
 
-    location = 'Kathmandu'
-    search_term = 'Resturants'
+    location = 'Pokhara'
+    search_term = 'atms'
 
  
     
     
     data = save_req_data(location, search_term)
-    with open(f'{location.lower()}.json', 'w') as file:
+    with open(f'{location.lower()}_{search_term.lower()}.json', 'w') as file:
         json.dump(data, file, indent=4)
         
     

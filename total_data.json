@@ -1,7 +1,104 @@
 {
-    "Janakpur": {
-        "name": "Janakpur",
-        "latitude": 26.727146599999998,
-        "longitude": 85.9406745
-    }
+    "Kathmandu": [
+        {
+            "name": "Forest & Plate",
+            "latitude": 27.715145699999997,
+            "longitude": 85.3109602
+        },
+        {
+            "name": "Sapporo Japanese Restaurant Kathmandu",
+            "latitude": 27.727242,
+            "longitude": 85.3299633
+        },
+        {
+            "name": "Marcopolo Restaurant",
+            "latitude": 27.715395899999997,
+            "longitude": 85.31315149999999
+        },
+        {
+            "name": "Grill Oregano Restaurant",
+            "latitude": 27.7168058,
+            "longitude": 85.3094867
+        },
+        {
+            "name": "Third Eye Restaurant- Best Indian Restaurant",
+            "latitude": 27.7144278,
+            "longitude": 85.31011629999999
+        },
+        {
+            "name": "K-Too! Steakhouse & Restaurant",
+            "latitude": 27.714684,
+            "longitude": 85.3108649
+        },
+        {
+            "name": "Nepalaya Rooftop Restaurant",
+            "latitude": 27.7119973,
+            "longitude": 85.3113102
+        },
+        {
+            "name": "KARNALI ORGANIC THALI By SPIZE",
+            "latitude": 27.7161145,
+            "longitude": 85.3111855
+        },
+        {
+            "name": "Kathmandu Grill Restaurant",
+            "latitude": 27.716231699999998,
+            "longitude": 85.3098124
+        },
+        {
+            "name": "Mela Restaurant",
+            "latitude": 27.7156129,
+            "longitude": 85.3300213
+        },
+        {
+            "name": "Kathmandu Steak House Restaurant",
+            "latitude": 27.7135653,
+            "longitude": 85.3103256
+        },
+        {
+            "name": "Florid Garden Restaurant",
+            "latitude": 27.7167234,
+            "longitude": 85.30949129999999
+        },
+        {
+            "name": "Le Sherpa Restaurant",
+            "latitude": 27.731467199999997,
+            "longitude": 85.32773519999999
+        },
+        {
+            "name": "Mulchowk Restaurant",
+            "latitude": 27.6945403,
+            "longitude": 85.322887
+        },
+        {
+            "name": "Fren's Kitchen",
+            "latitude": 27.711532499999997,
+            "longitude": 85.3126436
+        },
+        {
+            "name": "Alice Restaurant",
+            "latitude": 27.720506699999998,
+            "longitude": 85.3288192
+        },
+        {
+            "name": "Yin Yang Restaurant",
+            "latitude": 27.714539199999997,
+            "longitude": 85.310165
+        },
+        {
+            "name": "Mughal Empire Multi Cuisine",
+            "latitude": 27.719471799999997,
+            "longitude": 85.3182825
+        },
+        {
+            "name": "Legendary Fresh Food Kitchen",
+            "latitude": 27.715174299999997,
+            "longitude": 85.31153839999999
+        },
+        {
+            "name": "Little Buddha Restaurant",
+            "latitude": 27.714229099999997,
+            "longitude": 85.3112428
+        }
+    ]
 }

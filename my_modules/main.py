@@ -45,17 +45,13 @@ def save_req_data(location, search_term):
             return data
 
     indexed_data = create_indexed_dict(json_data)
-
-    with open('indexed_data.json', 'w') as file:
-        json.dump(indexed_data, file, indent=4)
+    items = indexed_data[0][1]
 
     required_data = []
-    items = indexed_data["0"]["1"]
-    for item in items:
-        print(item)
-        name = item.get('14',{}).get('11',None)
-        latitude = item.get('14', {}).get('9', {}).get('2', None)
-        longitude = item.get('14', {}).get('9', {}).get('3', None)
+    for item in items.values():
+        name = item.get(14,{}).get(11,None)
+        latitude = item.get(14, {}).get(9, {}).get(2, None)
+        longitude = item.get(14, {}).get(9, {}).get(3, None)
 
         if name:
             required_data.append({'name': name, 'latitude': latitude, 'longitude': longitude})
